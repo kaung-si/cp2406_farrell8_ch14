@@ -15,4 +15,5 @@ public class JFrame5
       aFrame.add(greeting);
       aFrame.add(greeting2);
    }
+
 }

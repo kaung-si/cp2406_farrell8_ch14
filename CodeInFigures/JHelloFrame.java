@@ -9,6 +9,7 @@ public class JHelloFrame extends JFrame implements ActionListener
    JButton pressMe = new JButton("Press me");
    JLabel greeting = new JLabel("");
    final int WIDTH = 275;
+
    final int HEIGHT = 225;
    public JHelloFrame()
    {

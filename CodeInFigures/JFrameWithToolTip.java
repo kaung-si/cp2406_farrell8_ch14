@@ -22,3 +22,4 @@ public class JFrameWithToolTip extends JFrame
       button.setToolTipText("Click this button");
    }
 }
+

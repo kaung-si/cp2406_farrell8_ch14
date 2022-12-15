@@ -7,3 +7,4 @@ public class ToolTipDemo
       frame.setVisible(true);
    }
 }
+

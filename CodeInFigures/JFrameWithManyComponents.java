@@ -21,3 +21,4 @@ public class JFrameWithManyComponents extends JFrame
       add(button);
    }
 }
+

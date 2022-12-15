@@ -12,4 +12,5 @@ public class JFrame3
       JLabel greeting = new JLabel("Good day");
       aFrame.add(greeting);
    }
+
 }

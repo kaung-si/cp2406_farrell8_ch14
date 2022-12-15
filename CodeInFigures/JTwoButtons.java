@@ -11,6 +11,7 @@ public class JTwoButtons extends JFrame
       button2.setEnabled(false);
       setLayout(new FlowLayout());
    }
+
    public static void main(String[] args)
    {
       JTwoButtons frame = new JTwoButtons();
