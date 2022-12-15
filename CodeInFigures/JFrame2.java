@@ -8,4 +8,5 @@ public class JFrame2
       aFrame.setSize(250, 100);
       aFrame.setVisible(true);
    }
+
 }

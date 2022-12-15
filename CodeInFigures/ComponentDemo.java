@@ -3,7 +3,7 @@ public class ComponentDemo
    public static void main(String[] args)
    {
       JFrameWithManyComponents frame =
-         new JFrameWithManyComponents();
+              new JFrameWithManyComponents();
       frame.setVisible(true);
    }
 }

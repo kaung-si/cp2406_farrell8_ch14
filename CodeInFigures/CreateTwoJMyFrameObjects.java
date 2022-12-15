@@ -5,4 +5,5 @@ public class CreateTwoJMyFrameObjects
       JMyFrame myFrame = new JMyFrame();
       JMyFrame mySecondFrame = new JMyFrame();
    }
+
 }
